@@ -52,7 +52,7 @@ Imprima o nome do animal correspondente à entrada fornecida.
 a = input() 
 b = input() 
 c = input() 
-
+#deposi que fiz dessa maneira descobri que poderia ter feito em forma de dicionario! mas ja entreguei assim.
 if a == "vertebrado":
     if b == "ave":
         if c == "carnivoro":
